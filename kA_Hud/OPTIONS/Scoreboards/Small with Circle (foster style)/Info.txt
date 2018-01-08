@@ -1,0 +1,3 @@
+Minimal Scoreboard
+
+"toggle cl_hud_minmode" toggles the stats on and off.
