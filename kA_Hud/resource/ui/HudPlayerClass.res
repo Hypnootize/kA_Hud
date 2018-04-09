@@ -70,8 +70,8 @@
 		"visible"		"1"         //triangle overlaps streak count
 		"enabled"		"1"
 		"scaleImage"	"1"
-		"image"				"replay/thumbnails/bg_blank"	
-		"teambg_1"			"replay/thumbnails/bg_blank"
+		"image"				""	
+		"teambg_1"			""
 		"teambg_2"      "replay/thumbnails/bg_redtri"
         "teambg_3"      "replay/thumbnails/bg_bluetri"
 	}
@@ -88,8 +88,8 @@
 		"visible"		"1"
 		"enabled"		"1"
 		"scaleImage"	"1"
-		"image"				"replay/thumbnails/bg_black"	
-		"teambg_1"			"replay/thumbnails/bg_black"
+		"image"				""	
+		"teambg_1"			""
 		"teambg_2"			"replay/thumbnails/bg_red"
 		"teambg_3"			"replay/thumbnails/bg_blue"
 	}

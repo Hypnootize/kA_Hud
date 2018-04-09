@@ -4,7 +4,6 @@
 	{
 		"label" "yA_HUD"
 		"command" "engine con_enable 1; engine showconsole; clear; echo kritz.me/yahud <> give feedback in the tf.tv thread: teamfortress.tv/forum/thread/8336-yahud <> or here github.com/whayay/yA_HUD"
-		"OnlyAtMenu" "1"
 	}
 
 	"ServerBrowserButton"
